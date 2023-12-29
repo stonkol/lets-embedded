@@ -1,7 +1,5 @@
 # learn-embedded
 
-All the stuff I will learn
-
 ## How to write the learning folders
 
 1. `$course` = Course short name
