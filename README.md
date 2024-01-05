@@ -24,4 +24,11 @@ Folder name = `$course`-`$teacher`-`$source`
 1. [Structures](https://users.ece.utexas.edu/~valvano/embed/chap9/chap9.htm)
 1. [Functions](https://users.ece.utexas.edu/~valvano/embed/chap10/chap10.htm)
 1. [Preprocessor Directives](https://users.ece.utexas.edu/~valvano/embed/chap11/chap11.htm)
-1. 
+
+# Equipment
+1. STM32F4xx Nucleo (Board)
+2. MiniUSB cable
+
+# Courses
+1. Mastering Microcontroller and [Embedded](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/) Driver Development
+2. Embedded Systems - [Shape The World](https://learning.edx.org/course/course-v1:UTAustinX+UT.6.10x+3T2022/home): Microcontroller Input/Output
