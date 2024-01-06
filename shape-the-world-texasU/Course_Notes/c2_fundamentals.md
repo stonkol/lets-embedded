@@ -28,61 +28,61 @@ const unsigned char key=0x23; // The key code 0100011 (binary)
 
 ### Punctuation and Meaning
 
-`;`    End of statement
-`:`    Defines a label
-`,`  Separates elements of a list
-`( )`  Start and end of a parameter list
-`{ }`  Start and stop of a compound statement
-`[ ]`  Start and stop of a array index
-`" "`  Start and stop of a string
-`' '`  Start and stop of a character constant
+1. `;`    End of statement
+1. `:`    Defines a label
+1. `,`  Separates elements of a list
+1. `( )`  Start and end of a parameter list
+1. `{ }`  Start and stop of a compound statement
+1. `[ ]`  Start and stop of a array index
+1. `" "`  Start and stop of a string
+1. `' '`  Start and stop of a character constant
 
 The next table shows the single character operators. For a description of these operations, see Chapter 5.
 
 ### Special characters can be punctuation marks
 
 Operation - Meaning
-`=` assignment statement
-`@` address of
-`?` selection
-`<` less than
-`>` greater than
-`!` logical not (true to false, false to true)
-`~` 1's complement
-`+` addition
-`-` subtraction
-`*` multiply or pointer reference
-`/` divide
-`%` modulo, division remainder
-`|` logical or
-`&` logical and, or address of
-`^` logical exclusive or
-`.` used to access parts of a structure
+1. `=` assignment statement
+1. `@` address of
+1. `?` selection
+1. `<` less than
+1. `>` greater than
+1. `!` logical not (true to false, false to true)
+1. `~` 1's complement
+1. `+` addition
+1. `-` subtraction
+1. `*` multiply or pointer reference
+1. `/` divide
+1. `%` modulo, division remainder
+1. `|` logical or
+1. `&` logical and, or address of
+1. `^` logical exclusive or
+1. `.` used to access parts of a structure
 
 ### Special characters can be operators
 
 Operation - Meaning
-`==` equal to comparison
-`<=` less than or equal to
-`>=` greater than or equal to
-`!=` not equal to
-`<<` shift left
-`>>` shift right
-`++` increment
-`--` decrement
-`&&` Boolean and
-`||` Boolean or
-`+=` add value to
-`-=` subtract value to
-`*=` multiply value to
-`/=` divide value to
-`|=` or value to
-`&=` and value to
-`^=` exclusive or value to
-`<<=` shift value left
-`>>=` shift value right
-`%=` modulo divide value to
-`->` pointer to a structure
+1. `==` equal to comparison
+1. `<=` less than or equal to
+1. `>=` greater than or equal to
+1. `!=` not equal to
+1. `<<` shift left
+1. `>>` shift right
+1. `++` increment
+1. `--` decrement
+1. `&&` Boolean and
+1. `||` Boolean or
+1. `+=` add value to
+1. `-=` subtract value to
+1. `*=` multiply value to
+1. `/=` divide value to
+1. `|=` or value to
+1. `&=` and value to
+1. `^=` exclusive or value to
+1. `<<=` shift value left
+1. `>>=` shift value right
+1. `%=` modulo divide value to
+1. `->` pointer to a structure
 
 ### Simple program illustrating C arithmetic operators
 
