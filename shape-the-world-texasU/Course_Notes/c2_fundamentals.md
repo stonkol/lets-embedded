@@ -26,7 +26,7 @@ const unsigned char key=0x23; // The key code 0100011 (binary)
 > [!CAUTION]
 > Punctuation marks (semicolons, colons, commas, apostrophes, quotation marks, braces, brackets, and parentheses) are very important in C. It is one of the most frequent sources of errors for both the beginning and experienced programmers.
 
-### Punctuation and Meaning
+## Punctuations
 
 1. `;`    End of statement
 1. `:`    Defines a label
@@ -37,11 +37,10 @@ const unsigned char key=0x23; // The key code 0100011 (binary)
 1. `" "`  Start and stop of a string
 1. `' '`  Start and stop of a character constant
 
-The next table shows the single character operators. For a description of these operations, see Chapter 5.
+## Special characters can be punctuation marks
 
-### Special characters can be punctuation marks
+Shows single character operators. For a description of these operations, see Chapter 5.
 
-Operation - Meaning
 1. `=` assignment statement
 1. `@` address of
 1. `?` selection
@@ -59,9 +58,8 @@ Operation - Meaning
 1. `^` logical exclusive or
 1. `.` used to access parts of a structure
 
-### Special characters can be operators
+## Special characters can be operators
 
-Operation - Meaning
 1. `==` equal to comparison
 1. `<=` less than or equal to
 1. `>=` greater than or equal to
@@ -84,7 +82,7 @@ Operation - Meaning
 1. `%=` modulo divide value to
 1. `->` pointer to a structure
 
-### Simple program illustrating C arithmetic operators
+## Simple program illustrating C arithmetic operators
 
 The standard arithmetic precedence apply. For a detailed description of these operations, see Chapter 5.
 
