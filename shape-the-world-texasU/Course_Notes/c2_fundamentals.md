@@ -98,3 +98,7 @@ void Example(void){
    y += 2;     /* same as y=y+2;   */   
 }
 ```
+
+> [!Important]
+> 1. Gently connect the microUSB to the microcontroller, is really fragile./
+> 2. Do not connect/disconnect any wire while the power is ON.
